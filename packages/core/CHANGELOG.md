@@ -1,5 +1,11 @@
 # @mastra/core
 
+## 1.68.0-alpha.8
+
+### Minor Changes
+
+- Added sandbox start options forwarding so providers can support cancellable startup operations. ([#24451](https://github.com/mastra-ai/mastra/pull/24451))
+
 ## 1.68.0-alpha.7
 
 ### Minor Changes
